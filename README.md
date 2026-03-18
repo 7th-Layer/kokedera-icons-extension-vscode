@@ -1,12 +1,16 @@
 # 苔寺 Kokedera Icons
 
-*A file icon theme for [Visual Studio Code](https://code.visualstudio.com), inspired by the moss temple garden in Kyoto.*
+*File icons from the moss garden — for [Visual Studio Code](https://code.visualstudio.com).*
 
 ---
 
 ## About
 
-**Kokedera Icons** is a file icon theme with 128 flat, organic icons drawn from the palette of **Saihō-ji** — moss greens, lantern amber, cedar teal, and stone gray. Each icon is a quiet artifact from the garden — recognizable at a glance, invisible when you're focused.
+**Kokedera Icons** is a file icon theme for VS Code, designed to pair with the [Kokedera color theme](https://marketplace.visualstudio.com/items?itemName=7th-Layer.kokedera-theme). Every icon draws from the same palette of moss greens, lantern ambers, and stone grays.
+
+- **128+ file & folder icons** covering languages, frameworks, configs, DevOps, docs, and media
+- **22 named folder icons** with collapsed/expanded variants (src, lib, tests, components, api, database, docker, and more)
+- **296 file extension mappings** — from `.rs` to `.prisma` to `.dockerfile`
 
 ## Installation
 
@@ -18,16 +22,24 @@
 6. Search for **"Preferences: File Icon Theme"**
 7. Select **Kokedera Icons**
 
+## Coverage
+
+| Category | Count |
+|----------|-------|
+| Programming languages | 25 |
+| Web & markup | 11 |
+| Data & config | 9 |
+| DevOps & infrastructure | 9 |
+| Documentation | 8 |
+| Tooling & meta | 16 |
+| Media & assets | 6 |
+| Folder icons (closed + open) | 44 |
+
 ## Pair with the theme
 
-For the full experience, install both:
+For the full experience, install the matching color theme:
 
-- **[Kokedera Theme](https://marketplace.visualstudio.com/items?itemName=7th-Layer.kokedera-theme)** — the color theme
-- **Kokedera Icons** — this icon pack
-
-## Also available for
-
-- [Zed](https://github.com/7th-Layer/kokedera-icons-extension-zed)
+- **[Kokedera Theme](https://marketplace.visualstudio.com/items?itemName=7th-Layer.kokedera-theme)**
 
 ## License
 
