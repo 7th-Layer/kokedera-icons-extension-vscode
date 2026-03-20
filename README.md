@@ -2,6 +2,8 @@
 
 *File icons from the moss garden — for [Visual Studio Code](https://code.visualstudio.com).*
 
+> **[kokedera.style](https://kokedera.style)** — visit the website for a full visual walkthrough of the palette, syntax highlighting, and icons.
+
 ---
 
 ## About
@@ -22,19 +24,6 @@
 6. Search for **"Preferences: File Icon Theme"**
 7. Select **Kokedera Icons**
 
-## Coverage
-
-| Category | Count |
-|----------|-------|
-| Programming languages | 25 |
-| Web & markup | 11 |
-| Data & config | 9 |
-| DevOps & infrastructure | 9 |
-| Documentation | 8 |
-| Tooling & meta | 16 |
-| Media & assets | 6 |
-| Folder icons (closed + open) | 44 |
-
 ## Pair with the theme
 
 For the full experience, install the matching color theme:
@@ -44,7 +33,3 @@ For the full experience, install the matching color theme:
 ## License
 
 [MIT](LICENSE)
-
----
-
-[kokedera.style](https://kokedera.style)
